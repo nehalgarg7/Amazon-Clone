@@ -1,4 +1,6 @@
 import React from "react";
+import Product from "../Product/Product";
+import "./Main.css"
 
 function Main(){
     return(
@@ -7,16 +9,16 @@ function Main(){
                 <img src="https://images-eu.ssl-images-amazon.com/images/G/31/Events/img23/Aug23ART/AugART23_T2_PC_Header_EN_UNREC.jpg" alt="" />
             </div>
             <div className="main-row">
-                {/* <Product /> */}
-                {/* <Product /> */}
+                <Product />
+                <Product />
             </div>
             <div className="main-row">
-                {/* <Product /> */}
-                {/* <Product /> */}
-                {/* <Product /> */}
+                <Product />
+                <Product />
+                <Product />
             </div>
             <div className="main-row">
-                {/* <Product /> */}
+                <Product />
             </div>
         </div>
     )

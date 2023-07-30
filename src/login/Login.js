@@ -33,7 +33,7 @@ function Login() {
                         </table>
                     </form>
                 </div>
-                <p>
+                <p id="p-text">
                     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Explicabo voluptatibus nesciunt quo modi a molestias dolorem delectus, tenetur mollitia necessitatibus est quos officiis error aperiam quas! In pariatur sunt delectus.
                 </p>
             </div>
