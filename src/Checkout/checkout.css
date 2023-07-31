@@ -1,0 +1,22 @@
+.ad{
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.checkout{
+    display: flex;
+    background-color: white;
+    height: max-content;
+}
+
+.checkout .left{
+    width: 77vw;
+}
+
+.checkout .right{
+    width: 10vw;
+}
+
+.checkout-title{
+    border-bottom: 1px solid lightgray;
+}
